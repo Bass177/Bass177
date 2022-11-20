@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bass177
-- 👀 I’m interested in learning to code in Python and C++ to analyze data and to explore design with Unreal Engine
+- 👀 I’m interested in learning to code in Python!
 - 🌱 I’m in the process of learning what to learn, and finding time between family and everything else.  
 - 💞️ I’m looking to collaborate on literally anything to gain experience.-
 - 📫 You can reach me by email at joshuamcclusky@gmail.com 
